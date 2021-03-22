@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Рамиль Зарипов](https://up.htmlacademy.ru/adaptive/22/user/241042).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
